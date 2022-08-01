@@ -8,14 +8,16 @@ Please see the project images and files below.
 
 Jupyter Notebook Files containing the code:
 Deliverable 1:
+
 [Vacation_Search.ipynb](./Vacation_Search/Vacation_Search.ipynb)
 
 Deliverables 2 & 3:
+
 [Vacation_Itinerary.ipynb](./Vaction_Itinerary/Vacation_Itinerary.ipynb)
 
 Initial map of all cities located using citipy on Google Maps:
 
-![WeatherPy_vacation.png](./Vacation_Search/WeatherPy_vacation.png)
+![WeatherPy_vacation_map.png](./Vacation_Search/WeatherPy_vacation_map.png)
 
 Map of selected cities with itinerary shown on Google Maps:
 
