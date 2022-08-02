@@ -9,9 +9,11 @@ Please see the project images and files below.
 Jupyter Notebook Files containing the code:
 Deliverable 1:
 
-[Vacation_Search.ipynb](./Vacation_Search/Vacation_Search.ipynb)
+[Weather_Database.ipynb](./Weather_Database/Weather_Database.ipynb)
 
 Deliverables 2 & 3:
+
+[Vacation_Search.ipynb](./Vacation_Search/Vacation_Search.ipynb)
 
 [Vacation_Itinerary.ipynb](./Vaction_Itinerary/Vacation_Itinerary.ipynb)
 
